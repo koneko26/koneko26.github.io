@@ -315,8 +315,8 @@ img{
 }
 
 .project_img{
-  width: 370px;
-  height: 225px;
+  width: 90%;
+  height: auto;
   padding: 0 10px 30px 20px;
   float: left;
 }
